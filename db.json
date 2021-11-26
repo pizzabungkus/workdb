@@ -78,28 +78,28 @@
       "id": 1,
       "image": "https://i.ibb.co/jGhsGR1/Defisit.jpg",
       "name": "Defisit",
-      "Description":"170 kalori perhari (1200 max seminggu). Lemak-lemak sebaiknya diganti seperti ikan atau protein nabati. tetap makan 3x sehari untuk makan malam dikurangi."
+      "Description":"170 kalori perhari (1200 max seminggu). Lemak-lemak sebaiknya diganti seperti ikan atau protein nabati. tetap makan 3x sehari untuk makan malam dikurangi.",
       "Saran":"Lebih untuk ke orang-orang yang ingin menurunkan berat lemak badan."
     },
     {
       "id": 2,
       "image": "https://i.ibb.co/h8H4360/Surpls.jpg",
       "name": "Surplus",
-      "Description":"350-500 kalori perhari (4500 kalori seminggu bisa lebih atau kurang sesuai badan). Perbanyak makan makanan daging, protein dan buah-buahan. Makan 3x sehari, makan malam boleh banyak tetapi makan di sore hari."
+      "Description":"350-500 kalori perhari (4500 kalori seminggu bisa lebih atau kurang sesuai badan). Perbanyak makan makanan daging, protein dan buah-buahan. Makan 3x sehari, makan malam boleh banyak tetapi makan di sore hari.",
       "Saran":"Lebih untuk ke orang-orang yang ingin menaikkan berat badan."
     },
     {
       "id": 3,
       "image": "https://i.ibb.co/k6Dx9Cv/Reverse-lunge.jpg",
       "name": "1 -2 day full workout",
-      "Description":"Pilihlah 3 lower dan 4 upper lalu masing-masing diberikan 2 rep 8x masing-masing, dilakukan 1-2x seminggu."
+      "Description":"Pilihlah 3 lower dan 4 upper lalu masing-masing diberikan 2 rep 8x masing-masing, dilakukan 1-2x seminggu.",
       "Saran":"Istirahatlah masing-masing rep 1 menit lalu lanjutkan, dan jangan lupa minum air."
     },
     {
       "id": 4,
       "image": "https://i.ibb.co/3Y5jRkF/Benchpress.jpg",
       "name": "Bias workout",
-      "Description":"Pilihlah salah satu, gerakan upper atau lower jika sudah lakukan semua workout yang tercantum dalam workoutlist 2 rep 8x masing-masing dilakukan 3-4x seminggu."
+      "Description":"Pilihlah salah satu, gerakan upper atau lower jika sudah lakukan semua workout yang tercantum dalam workoutlist 2 rep 8x masing-masing dilakukan 3-4x seminggu.",
       "Saran":"Istirahatlah masing-masing rep 1 menit lalu lanjutkan, dan jangan lupa minum air. Lebih untuk ke orang-orang yang ingin fokus pada body upper atau lowernya."
     }
    ],
