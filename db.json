@@ -1,9 +1,100 @@
 {
     "Workout": [
-      {
-        "id": 1,
-        "image": "https://ibb.co/H2y0Lc0",
-        "name": "Leg day"
-      }
-    ]
+     {
+      "id": 1,
+      "image": "https://i.ibb.co/k6Dx9Cv/Reverse-lunge.jpg",
+      "name": "Reverse Lunge",
+      "Description":"Lower, Mulailah dengan berdiri tegak dan menguatkan otot inti Anda. Kemudian ambil langkah besar ke belakang dengan kaki kiri Anda. Tekuk lutut kanan hingga mencapai 90°, dan turunkan lutut kiri hingga juga tertekuk pada sudut kanan. Kemudian dorong kembali dan kembali ke posisi awal.."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/80GGp6k/Calf-raise.jpg",
+      "name": "Calves Raise",
+      "Description":"lower, Berdiri tegak, lalu dorong bola kaki Anda dan angkat tumit sampai Anda berdiri di atas jari-jari kaki. Kemudian turunkan perlahan kembali ke awal. Untuk alasan ini, betis adalah latihan yang paling mudah untuk dimasukkan ke dalam kehidupan sehari-hari Anda. "
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/t87gMm0/Squat.jpg",
+      "name": "Squat",
+      "Description":"Lower, Jaga siku Anda sepenuhnya terentang dengan palang di udara, sedikit di belakang kepala Anda. Melangkah menghadap dinding, beberapa inci jauhnya, dan lakukan squat seperti dijelaskan di atas. Setelah Anda memasang jongkok di dinding atas, menjauhlah dari dinding dan latih hanya dengan barbel, lalu tambahkan beban secara bertahap. "
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/bg3hHhW/Romanian-deadlift.jpg",
+      "name": "Romanian Deadlift",
+      "Description":"Lower, Romanian Deadlift adalah gerakan di mana pinggul Anda berengsel ke belakang untuk menurunkan dan mengambil barbel atau kettlebell tertimbang dari lantai. Punggung Anda rata sepanjang gerakan. "
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/HKTSDdL/Deadlift.jpg",
+      "name": "Deadlift",
+      "Description":"Upper, Deadlift adalah gerakan di mana pinggul Anda berengsel ke belakang untuk menurunkan dan mengambil barbel atau kettlebell tertimbang dari lantai. Punggung Anda rata sepanjang gerakan. "
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/8xNs0v0/Lateral-raises.jpg",
+      "name": "Lateral Raise",
+      "Description":"Upper, Berdiri atau duduk dengan tangan di sisi tubuh dan dumbel di masing-masing tangan. Dengan telapak tangan menghadap ke dalam ke arah tubuh dan siku sedikit ditekuk, angkat dumbel sehingga lengan sejajar dengan lantai."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/yhRwnSn/Pushdown.jpg",
+      "name": "Pushdown",
+      "Description":"Upper, Attach a rope handle to the high pulley of a cable station. Keeping your elbows tucked in at your sides grab the handle, tense your core, and bring your hands down until your arms are fully extended, then return to the starting position. Only your forearms should move."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/3Y5jRkF/Benchpress.jpg",
+      "name": "Bench Press",
+      "Description":"Upper, Berbaring telentang di bangku datar. Tekan kaki Anda dengan kuat ke tanah dan pertahankan pinggul Anda di bangku sepanjang seluruh gerakan. Angkat perlahan palang dari rak, jika menggunakan, dan turunkan palang ke dada, biarkan siku menekuk ke samping.Berhenti menurunkan saat siku tepat di bawah bangku."
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/qMMm6C3/bicep-curl.jpg",
+      "name": "Bicep Curl",
+      "Description":"Upper, Pegang barbel atau dumbbell seberat 3 atau 5 kg di masing-masing tangan Ladies. Angkat pemberat di tangan Ladies dengan menekuk sikut perlahan hingga perut."
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/wcVX4n1/Shoulder-press.jpg",
+      "name": "Shoulder Press",
+      "Description":"Upper, Berdiri dengan kaki selebar bahu dan pegang dumbel setinggi bahu dengan siku membentuk sudut 90 derajat. Perlahan angkat dumbel di atas kepala Anda tanpa meluruskan lengan sepenuhnya. Jeda di bagian atas. Perlahan kembali ke posisi awal. "
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/SdTMYHX/Rear-lateral-raises.jpg",
+      "name": "Rear Lateral Raises",
+      "Description":"Upper, Duduk atau berdiri dengan dumbbell di masing-masing tangan. Posisikan lengan Anda di depan Anda, dengan telapak tangan menghadap paha. Perlahan angkat dumbbell ke atas, jaga agar lengan tetap lurus, hingga lengan sejajar dengan lantai. Perlahan kembalikan dumbbell ke posisi awal."
+    },
+     {
+      "id": 12,
+      "image": "https://i.ibb.co/PgNdxqM/Plank.jpg",
+      "name": "Plank",
+      "Description":"Upper, Berbaring di lantai dengan siku di bawah bahu, tangan rata di lantai dan inti bergerak. Menjaga lengan bawah dan lutut di lantai perlahan-lahan angkat tubuh ke atas sampai tubuh berada dalam garis lurus dari lutut ke kepala. Tahan posisi selama Anda bisa."
+    } 
+   ],
+    "Diet": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/jGhsGR1/Defisit.jpg",
+      "name": "Defisit",
+      "Description":"170 kalori perhari (1200 max seminggu). Lemak-lemak sebaiknya diganti seperti ikan atau protein nabati. tetap makan 3x sehari untuk makan malam dikurangi."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/h8H4360/Surpls.jpg",
+      "name": "Surplus",
+      "Description":"350-500 kalori perhari (4500 kalori seminggu bisa lebih atau kurang sesuai badan). Perbanyak makan makanan daging, protein dan buah-buahan. Makan 3x sehari, makan malam boleh banyak tetapi makan di sore hari."
+    }
+   ],
+   "Tipe Badan": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/0VKhsDL/Tipe-body.jpg",
+      "name": "Tipe Badan"
+     
+    },
+   ]
+
+    
   }
